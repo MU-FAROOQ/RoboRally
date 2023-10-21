@@ -1,7 +1,7 @@
 # RoboRally
 This is a grid based board game. Players have to touch/collect all flags in order of number. First to do this wins.
 
-CS1410 - Java Program Development (2019)
+CS1410 - Java Program Development - 2019
 
 # Usage
 The game uses 2 files. A Program (.prg) file and a Board (.brd) file.
